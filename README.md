@@ -15,7 +15,7 @@
 ---
 
 ## 🚀 About Me
-I am a dedicated **Flutter Application Developer** with over **20+ Complete Projects** building high-quality, cross-platform mobile apps. I enjoy creating smooth UI, clean architecture, and efficient backend integrations using **PHP & MySQL**.
+I am a dedicated **Flutter Application Developer** with over **2+ Years of Exprience** building high-quality, cross-platform mobile apps. I enjoy creating smooth UI, clean architecture, and efficient backend integrations using **PHP & MySQL**.
 
 ---
 

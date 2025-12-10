@@ -51,10 +51,9 @@ I am a dedicated **Flutter Application Developer** with over **1 years of profes
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oxfaysal&show_icons=true&theme=default" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oxfaysal&layout=compact&theme=default" height="150" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=oxfaysal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=oxfaysal&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=oxfaysal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
@@ -68,3 +67,7 @@ I am a dedicated **Flutter Application Developer** with over **1 years of profes
 ---
 
 ⭐ **Feel free to explore my repositories and reach out for collaboration!**
+
+[![](https://visitcount.itsvg.in/api?id=oxfaysal&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

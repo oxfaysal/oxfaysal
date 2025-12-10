@@ -15,32 +15,32 @@
 ---
 
 ## 🚀 About Me
-I am a dedicated **Flutter Application Developer** with over **1 years of professional experience** building high-quality, cross-platform mobile apps. I enjoy creating smooth UI, clean architecture, and efficient backend integrations using **PHP & MySQL**.
+I am a dedicated **Flutter Application Developer** with over **20+ Complete Projects** building high-quality, cross-platform mobile apps. I enjoy creating smooth UI, clean architecture, and efficient backend integrations using **PHP & MySQL**.
 
 ---
 
 ## 🛠️ Skills & Technologies
 
 ### 🧩 **Mobile Development**
-- Flutter (Dart)
-- State Management: Provider, GetX, Riverpod, Bloc
-- Clean Architecture & MVVM
-- REST API Integration
-- Firebase (Auth, Firestore, FCM)
-- Local Database (Hive, SQFLite)
+✨ Flutter (Dart)
+✨ State Management: Provider, GetX, Riverpod, Bloc
+✨ Clean Architecture & MVVM
+✨ REST API Integration
+✨ Firebase (Auth, Firestore, FCM)
+✨ Local Database (Share Preference, SQFLite)
 
 ### ⚙️ **Backend**
-- PHP (Core & OOP)
-- Laravel (basic)
-- MySQL Database
-- API Development & Management
+✨ PHP (Core & OOP)
+✨ Laravel (basic)
+✨ MySQL Database
+✨ API Development & Management
 
 ### 🧰 **Tools & Others**
-- Git & GitHub
-- Android Studio / VS Code
-- Postman
-- Figma (UI/UX)
-- Deployment & App Publishing
+✨ Git & GitHub
+✨- Android Studio / VS Code
+✨ Postman
+✨ Figma (UI/UX)
+✨ Deployment & App Publishing
 
 ---
 

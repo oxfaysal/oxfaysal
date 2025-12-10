@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm **Faysal** 👋</h1>
+<h1 align="center">Hi, I'm Faysal 👋</h1>
 
 <p align="center">
   <b>Flutter App Developer | Mobile App Specialist | 20+ Project Complete</b>
@@ -8,7 +8,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-Expert-blue?style=for-the-badge&logo=flutter" />
   <img src="https://img.shields.io/badge/Project-20+ Complete-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Platform-Android%20%7C%20iOS-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Platform-Android%20%7C%20iOS-orange?style=for-the-badge&logo=mobile" />
 </p>
 
 

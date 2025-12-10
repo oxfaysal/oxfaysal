@@ -78,8 +78,7 @@ I am a dedicated **Flutter Application Developer** with over **2+ Years of Expri
 
 
 ### 📊 My Live GitHub Contribution Graph
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=oxfaysal&count_private=true&theme=tokyonight&showicons=true)]()
-
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=oxfaysal&langs_count=5&theme=tokyonight)]()
 
 ---
 

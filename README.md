@@ -1,4 +1,6 @@
-<h1 align="center"><font color="#00ffff">Hi, I'm Faysal 👋</font></h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&color=00FFFF&center=true&vCenter=true&width=550&lines=Hi,+I'm+Faysal+👋">
+</p>
 
 
 
